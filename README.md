@@ -19,7 +19,6 @@
 ## Links
 
 - Solution URL: https://github.com/Antho137/linkedlist
-- Live Site URL: https://antho137.github.io/linkedlist/
 
 ## Author
 
